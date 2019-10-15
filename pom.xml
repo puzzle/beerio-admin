@@ -17,7 +17,7 @@
         <java.version>11</java.version>
         <fabric8.mode>openshift</fabric8.mode>
         <fabric8.build.strategy>docker</fabric8.build.strategy>
-        <fabric8.namespace>sbw-2019-kt</fabric8.namespace>
+        <fabric8.namespace>sbw-2019-ktran</fabric8.namespace>
     </properties>
 
     <dependencies>

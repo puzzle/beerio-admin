@@ -1,6 +1,6 @@
 spec:
   to:
     kind: Service
-    name: spring-boot-admin
+    name: beerio-admin
   tls:
     termination: edge
