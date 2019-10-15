@@ -1,0 +1,6 @@
+spec:
+  to:
+    kind: Service
+    name: spring-boot-admin
+  tls:
+    termination: edge
